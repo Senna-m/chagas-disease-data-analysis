@@ -31,6 +31,7 @@ Data obtained from DATASUS public health surveillance systems.
 
 ## Project Structure
 
+```
 chagas-disease-data-analysis
 │
 ├── data
@@ -46,3 +47,4 @@ chagas-disease-data-analysis
 │   └── graphs.png
 │
 └── README.md
+```
