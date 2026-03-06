@@ -28,3 +28,21 @@ Data obtained from DATASUS public health surveillance systems.
 - 2,798 confirmed cases between 2010 and 2020
 - 77% related to oral transmission
 - Northern region concentrates most cases
+
+## Project Structure
+
+chagas-disease-data-analysis
+│
+├── data
+│   └── datasus_chagas_2010_2020.csv
+│
+├── notebooks
+│   └── analysis.ipynb
+│
+├── dashboard
+│   └── dashboard.pbix
+│
+├── images
+│   └── graphs.png
+│
+└── README.md
